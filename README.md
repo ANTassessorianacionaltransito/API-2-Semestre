@@ -57,8 +57,8 @@ O objetivo do projeto é desenvolver um dashboard através do PowerBI que permit
 # Registro das Sprints
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 00                | 24/03/2026 | Concluído  | [MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)  |
-| 01                | 23/04/2026 | Concluído  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| 02                | 28/05/2026 | Concluído  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| 03                | 18/06/2025 | Concluído  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| Feira de Soluções | 25/06/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/Feira_de_solu%C3%A7%C3%B5es)  |
+| 00                | 03/09/2026 | Em andamento  | [MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)  |
+| 01                | 01/10/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
+| 02                | 29/10/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
+| 03                | 26/11/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
+| Feira de Soluções | 03/12/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/Feira_de_solu%C3%A7%C3%B5es)  |
