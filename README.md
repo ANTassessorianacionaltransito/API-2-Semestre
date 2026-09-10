@@ -31,6 +31,39 @@ A solução permitirá análises comparativas entre os estados brasileiros e a m
 
 
 ## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
+
+As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos do parceiro e com as necessidades de tratamento, análise, visualização e versionamento dos dados.
+
+### 💻 Desenvolvimento e Tratamento de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+- **Python 3+:** utilizado no desenvolvimento do back-end e no processamento dos dados.
+- **Pandas:** utilizado para manipulação, tratamento e análise das bases de dados.
+- **Google Colab:** ambiente utilizado para normalização, limpeza e análise inicial das bases públicas.
+
+### 📊 Business Intelligence e Visualização
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+- **Power BI:** utilizado para o desenvolvimento dos dashboards e visualização interativa dos indicadores.
+- **DAX (Data Analysis Expressions):** utilizado na criação de medidas, cálculos e indicadores para as análises realizadas no Power BI.
+
+### 🔄 Versionamento e Documentação
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+- **GitHub:** utilizado para controle de versão e documentação dos artefatos desenvolvidos durante o projeto.
 
 | Tecnologias Específicas/Apoio | Tecnologias da Informação |
  |---------------------------------------------------------------------------------------------------------------|---------|
