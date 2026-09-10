@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Projeto desenvolvido no 2º semestre do curso de Logística da FATEC São José dos Campos, por meio da metodologia de Aprendizagem por Projetos Integrados (API), em parceria com o CADI e o Observatório Nacional de Segurança Viária (ONSV). O projeto tem como foco a análise integrada de dados de segurança viária no Brasil, especialmente de sinistros envolvendo veículos pesados em autoestradas.
 
 # Objetivo do Projeto
-Desenvolver uma ferramenta de Power BI para analisar indicadores de sinistralidade no trânsito, com foco em veículos pesados.
+Desenvolver uma ferramenta de Business Intelligence em Power BI para analisar indicadores de sinistralidade no trânsito, com foco em veículos pesados.
 A solução permitirá análises comparativas entre os estados brasileiros e a média nacional, considerando indicadores como mortalidade, severidade dos sinistros, frota e população. O projeto também contempla a análise dos pontos de parada e descanso e da distância entre esses pontos e os locais de sinistros envolvendo veículos pesados.
 
 # Equipe
