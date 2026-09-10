@@ -30,7 +30,7 @@ A solução permitirá análises comparativas entre os estados brasileiros e a m
 |  Team Member  | Nicolas Silva                 |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/nicolas-silva-5251ba3ab) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nicolas-M07)
 
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos do parceiro e com as necessidades de tratamento, análise, visualização e versionamento dos dados.
 
@@ -44,7 +44,7 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 </p>
 
 - **Python 3+:** utilizado no desenvolvimento do back-end e no processamento dos dados.
-- **R:** utilizado no tratamento, análise estatística e exploração dos dados.
+- **R:** utilizado para análise estatística e exploração dos dados.
 - **Pandas:** utilizado para manipulação, tratamento e análise das bases de dados em Python.
 - **Google Colab:** ambiente utilizado para normalização, limpeza e análise inicial das bases públicas.
 
@@ -65,6 +65,7 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 </p>
 
 - **GitHub:** utilizado para controle de versão e documentação dos artefatos desenvolvidos durante o projeto.
+- 
 # Product backlog
 
 # Registro das Sprints
