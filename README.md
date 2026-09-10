@@ -67,23 +67,19 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 - **GitHub:** utilizado para controle de versão e documentação dos artefatos desenvolvidos durante o projeto.
   
 # Product backlog
-# Product Backlog
-
-O Product Backlog reúne as funcionalidades previstas para o projeto, organizadas de acordo com a prioridade e o valor de negócio entregue ao parceiro.
 
 | Rank | Prioridade | User Story | Estimativa (Story Points) | Sprint | Requisito do Parceiro |
 |---:|:---:|---|:---:|:---:|---|
-| **1** | Alta | **Como gestor do Observatório**, quero visualizar um dashboard interativo no Power BI, **para que eu possa acompanhar e analisar os principais indicadores de segurança viária de forma centralizada e intuitiva**. | A definir | A definir | RN.P.3 / RN.P.5 |
-| **2** | Alta | **Como analista de dados**, quero obter as bases de dados da PRF e do DATASUS, **para que eu possa reunir os dados necessários às análises de segurança viária**. | A definir | A definir | RN.P.1 |
-| **3** | Alta | **Como analista de dados**, quero tratar os dados da PRF e do DATASUS no Google Colab utilizando Python, **para que dados nulos sejam tratados, os nomes sejam padronizados e os veículos pesados utilizados na análise sejam definidos**. | A definir | A definir | RN.P.1 / RN.P.2 |
-| **4** | Alta | **Como pesquisador de segurança viária**, quero filtrar os dados por localidade, período, tipo de veículo e características do sinistro, **para que eu possa realizar análises específicas a partir de diferentes recortes dos dados**. | A definir | A definir | Filtros Interativos |
-| **5** | Alta | **Como pesquisador de segurança viária**, quero visualizar a taxa de mortes por 100 mil habitantes em cada estado, **para que eu possa comparar os níveis de mortalidade no trânsito entre os estados brasileiros**. | A definir | A definir | Indicadores |
-| **6** | Alta | **Como pesquisador de segurança viária**, quero visualizar a relação entre o crescimento da frota de veículos pesados e o aumento dos sinistros fatais, **para que eu possa identificar possíveis relações entre a evolução da frota e a ocorrência de fatalidades**. | A definir | A definir | Questões de Análise |
-| **7** | Alta | **Como gestor do Observatório**, quero visualizar os estados com as maiores taxas de fatalidade envolvendo veículos pesados, **para que eu possa identificar as regiões que apresentam os indicadores mais críticos**. | A definir | A definir | Questões de Análise |
-| **8** | Média | **Como pesquisador de segurança viária**, quero visualizar a evolução dos indicadores de segurança viária entre 2015 e 2025, **para que eu possa identificar tendências e mudanças nos indicadores ao longo do período**. | A definir | A definir | Questões de Análise |
-| **9** | Média | **Como gestor do Observatório**, quero visualizar a quantidade de sinistros por 10 mil veículos, **para que eu possa comparar a ocorrência de sinistros considerando o tamanho da frota analisada**. | A definir | A definir | Indicadores |
-| **10** | Média | **Como gestor do Observatório**, quero comparar os indicadores estaduais com a média nacional, **para que eu possa identificar quais estados apresentam resultados acima ou abaixo do cenário nacional**. | A definir | A definir | Indicadores |
-
+| **1** | Alta | **Como gestor do Observatório**, quero visualizar um dashboard interativo no Power BI, **para que eu possa acompanhar e analisar os principais indicadores de segurança viária de forma centralizada e intuitiva**. | A definir | **3** | RN.P.3 / RN.P.5 |
+| **2** | Alta | **Como gestor do Observatório**, quero comparar os indicadores estaduais com a média nacional, **para que eu possa identificar quais estados apresentam resultados acima ou abaixo do cenário nacional**. | A definir | **3** | Indicadores |
+| **3** | Alta | **Como pesquisador de segurança viária**, quero visualizar a relação entre o crescimento da frota de veículos pesados e os sinistros fatais, **para que eu possa identificar possíveis relações entre a evolução da frota e a ocorrência de fatalidades**. | A definir | **3** | Questões de Análise |
+| **4** | Alta | **Como pesquisador de segurança viária**, quero visualizar a evolução dos indicadores de segurança viária entre 2015 e 2025, **para que eu possa identificar tendências e mudanças nos indicadores ao longo do período**. | A definir | **2** | Questões de Análise |
+| **5** | Alta | **Como gestor do Observatório**, quero visualizar os estados com as maiores taxas de fatalidade envolvendo veículos pesados, **para que eu possa identificar as regiões que apresentam os indicadores mais críticos**. | A definir | **2** | Questões de Análise |
+| **6** | Alta | **Como pesquisador de segurança viária**, quero visualizar a taxa de mortes por 100 mil habitantes em cada estado, **para que eu possa comparar os níveis de mortalidade no trânsito entre os estados brasileiros**. | A definir | **2** | Indicadores |
+| **7** | Média | **Como gestor do Observatório**, quero visualizar a quantidade de sinistros por 10 mil veículos, **para que eu possa comparar a ocorrência de sinistros considerando o tamanho da frota analisada**. | A definir | **2** | Indicadores |
+| **8** | Alta | **Como pesquisador de segurança viária**, quero filtrar as informações por localidade, período, tipo de veículo e características do sinistro, **para que eu possa realizar análises específicas a partir de diferentes recortes dos dados**. | A definir | **2** | Filtros Interativos |
+| **9** | Alta | **Como analista de dados**, quero tratar os dados da PRF e do DATASUS no Google Colab utilizando Python, **para que os dados sejam limpos, padronizados e preparados para utilização nas análises do projeto**. | A definir | **1** | RN.P.1 / RN.P.2 |
+| **10** | Alta | **Como analista de dados**, quero obter as bases de dados da PRF e do DATASUS, **para que eu possa reunir os dados necessários às análises de segurança viária**. | A definir | **1** | RN.P.1 |
 # Registro das Sprints
 
 | Etapa | Data | Status | Documentação |
