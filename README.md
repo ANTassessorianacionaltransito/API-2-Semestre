@@ -47,7 +47,7 @@ A solução permitirá análises comparativas entre os estados brasileiros e a m
 
 | Etapa | Data | Status | Documentação |
 |---|---|---|---|
-| Kick-off | 27/08/2026 |  Concluído |  |
+| Kick-off | 27/08/2026 |  Concluído | Apresentação |
 | Validação do Entendimento | 03/09/2026 |  Concluído |[MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)|
 | Sprint 1 | 01/10/2026 |  Em andamento | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's) |
 | Sprint 2 | 29/10/2026 |  Planejado | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's) |
