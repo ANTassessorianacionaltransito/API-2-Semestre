@@ -65,7 +65,7 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 </p>
 
 - **GitHub:** utilizado para controle de versão e documentação dos artefatos desenvolvidos durante o projeto.
-- 
+  
 # Product backlog
 
 # Registro das Sprints
