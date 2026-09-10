@@ -46,7 +46,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 # Registro das Sprints
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 00                | 03/09/2026 | Em andamento  | [MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)  |
+| 00                | 03/09/2026 | Concluído  | [MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)  |
 | 01                | 01/10/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
 | 02                | 29/10/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
 | 03                | 26/11/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
