@@ -43,23 +43,13 @@ A solução permitirá análises comparativas entre os estados brasileiros e a m
 
 # Product backlog
 
-
-# Registro das Sprints
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 00                | 03/09/2026 | Concluído  | [MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)  |
-| 01                | 01/10/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| 02                | 29/10/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| 03                | 26/11/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| Feira de Soluções | 03/12/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/Feira_de_solu%C3%A7%C3%B5es)  |
-
 # Registro das Sprints
 
 | Etapa | Data | Status | Documentação |
 |---|---|---|---|
-| Kick-off | 27/08/2026 | ✅ Concluído | - |
-| Validação do Entendimento | 03/09/2026 | ✅ Concluído | Vídeo |
-| Sprint 1 | 01/10/2026 | 🟡 Em andamento | [Sprint 1](sprints/sprint-1.md) |
-| Sprint 2 | 29/10/2026 | ⚪ Planejado | [Sprint 2](sprints/sprint-2.md) |
-| Sprint 3 | 26/11/2026 | ⚪ Planejado | [Sprint 3](sprints/sprint-3.md) |
-| Feira de Soluções | 03/12/2026 | ⚪ Planejado | - |
+| Kick-off | 27/08/2026 |  Concluído |  |
+| Validação do Entendimento | 03/09/2026 |  Concluído |[MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)|
+| Sprint 1 | 01/10/2026 |  Em andamento | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's) |
+| Sprint 2 | 29/10/2026 |  Planejado | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)) |
+| Sprint 3 | 26/11/2026 |  Planejado | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's) |
+| Feira de Soluções | 03/12/2026 |  Planejado | - |
