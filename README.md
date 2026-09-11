@@ -79,7 +79,7 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 | **7** | Média | Como gestor do Observatório, quero visualizar a quantidade de sinistros por 10 mil veículos, para que eu possa comparar a ocorrência de sinistros considerando o tamanho da frota analisada. | A definir | **2** | Indicadores |
 | **8** | Média | Como pesquisador de segurança viária, quero filtrar as informações por localidade, período, tipo de veículo e características do sinistro, para que eu possa realizar análises específicas a partir de diferentes recortes dos dados. | A definir | **1** | Filtros Interativos |
 | **9** | Média | Como analista de dados, quero tratar os dados da PRF e do DATASUS no Google Colab utilizando Python, para que os dados sejam limpos, padronizados e preparados para utilização nas análises do projeto. | A definir | **1** | RN.P.1 / RN.P.2 |
-| **10** | Baixa | Como analista de dados, quero obter as bases de dados da PRF e do DATASUS, para que eu possa reunir os dados necessários às análises de segurança viária. | A definir | **1** | RN.P.1 |
+| **10** | Baixa | Como analista de dados, quero uma biblioteca de dados pronta, com entendimento das bases e os dados preparados para abastecer o PowerBi. | A definir | **1** | RN.P.1 |
 
 # Registro das Sprints
 
