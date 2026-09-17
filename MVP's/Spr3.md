@@ -19,14 +19,11 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-|Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
-|----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
-|   |       |                                                                |     |         |
-|   |       |                                               |     |         |
-|   |                                                |     |  |
-|   |       |                                                                                                |     |         |
-|   |       |                                                                |     |  |
-|   |       |                                              |     |  |
+| Rank | Prioridade | User Story | Estimativa (Story Points) | Sprint | Requisito do Parceiro |
+|---:|:---:|---|:---:|:---:|---|
+| **1** | Alta | Como gestor do Observatório, quero visualizar um dashboard interativo no Power BI, para que eu possa acompanhar e analisar os principais indicadores de segurança viária de forma centralizada e intuitiva. | A definir | **3** | RN.P.3 / RN.P.5 |
+| **2** | Alta | Como gestor do Observatório, quero comparar os indicadores estaduais com a média nacional, para que eu possa identificar quais estados apresentam resultados acima ou abaixo do cenário nacional. | A definir | **3** | Indicadores |
+| **3** | Alta | Como pesquisador de segurança viária, quero visualizar a relação entre o crescimento da frota de veículos pesados e os sinistros fatais, para que eu possa identificar possíveis relações entre a evolução da frota e a ocorrência de fatalidades. | A definir | **3** | Questões de Análise |
 
 ---
 
