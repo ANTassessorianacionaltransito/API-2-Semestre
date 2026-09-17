@@ -32,7 +32,7 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 ## 📅 Sprint(s) Relacionadas
 |Sprint|            O que foi entregue                                                                                                                                                                                                                       |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|1   | uma apresentação em canva sobre o que foi e será realizado ao longo das sprints 
+|1   | 
 
                                                           
 
