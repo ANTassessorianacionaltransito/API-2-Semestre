@@ -87,7 +87,7 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 |---|---|---|---|
 | Kick-off | 27/08/2026 |  Concluído | Apresentação |
 | Validação do Entendimento | 03/09/2026 |  Concluído | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/tree/main/MVP's) |
-| Sprint 1 | 01/10/2026 |  Em andamento | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/tree/main/MVP's) |
-| Sprint 2 | 29/10/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/tree/main/MVP's) |
-| Sprint 3 | 26/11/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/tree/main/MVP's) |
+| Sprint 1 | 01/10/2026 |  Em andamento | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/blob/main/MVP's/Spr1.md) |
+| Sprint 2 | 29/10/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/blob/main/MVP's/Spr2.md) |
+| Sprint 3 | 26/11/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/blob/main/MVP's/Spr3.md) |
 | Feira de Soluções | 03/12/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/tree/main/MVP's) |
