@@ -14,9 +14,9 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 ---
 
 ## 👥 Personas / Usuários-Alvo
--Como analista de dados. 
-Como pesquisador de segurança viária.
-Como gestor do Observatório. 
+- Como analista de dados.
+- Como pesquisador de segurança viária.
+- Como gestor do Observatório. 
 
 ---
 
