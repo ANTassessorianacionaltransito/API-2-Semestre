@@ -20,7 +20,7 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 
 ## 🔑 User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story | Estimativa (Story Points) | Sprint | Requisito do Parceiro |
-
+|---:|:---:|---|:---:|:---:|---|
 ---
 
 ## 📅 Sprint(s) Relacionadas
