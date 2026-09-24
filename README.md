@@ -86,7 +86,7 @@ As tecnologias utilizadas no projeto foram definidas de acordo com os requisitos
 | Etapa | Data | Status | Documentação |
 |---|---|---|---|
 | Kick-off | 27/08/2026 |  Concluído | Apresentação |
-| Validação do Entendimento | 03/09/2026 |  Concluído | [Video_de_entendimento](https://drive.google.com/file/d/13R041DGIqS8TsImTODcXAVb5QLNnfhOZ/view?usp=sharing) |
+| Validação do Entendimento | 03/09/2026 |  Concluído | [Video](https://drive.google.com/file/d/13R041DGIqS8TsImTODcXAVb5QLNnfhOZ/view?usp=sharing) |
 | Sprint 1 | 01/10/2026 |  Em andamento | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/blob/main/MVP's/Spr1.md) |
 | Sprint 2 | 29/10/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/blob/main/MVP's/Spr2.md) |
 | Sprint 3 | 26/11/2026 |  Planejado | [MVP](https://github.com/ANTassessorianacionaltransito/API-2-Semestre/blob/main/MVP's/Spr3.md) |
