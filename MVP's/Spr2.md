@@ -1,7 +1,7 @@
 # 📌 MVP - API 2 Logística
 
 ## 🎯 Objetivo do MVP  
-Desenvolver um dashboard por meio do Power BI que permita a visualização dos dados de exportação e importação do estado de São Paulo e de seus municípios. A plataforma permitirá uma comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização.
+Desenvolver um dashboard interativo com dados agregados de segurança viária, focado na análise de sinistros com veículos pesados em autoestradas e no mapeamento de pontos de descanso, para apoiar o ONSV e o CADI na formulação de políticas públicas e estudos acadêmicos.
 
 ---
 
