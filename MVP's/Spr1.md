@@ -65,5 +65,5 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 - [Código do Colab]()
 - [Apresentação Sprint 1](https://canva.link/f0fgctmrxfwxk6s)
 - [Registro MVP1]()
-- [Relatório Sprint 1] (https://canva.link/f0fgctmrxfwxk6s)
+- [Relatório Sprint 1](https://canva.link/f0fgctmrxfwxk6s)
 
