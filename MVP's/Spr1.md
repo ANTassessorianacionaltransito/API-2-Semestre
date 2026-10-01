@@ -6,9 +6,8 @@ Desenvolver um dashboard interativo com dados agregados de segurança viária, f
 ---
 
 ## 📝 Descrição da Solução  
-- 
-- 
-- 
+- o trabalho concentrou-se na limpeza e padronização de dados históricos da Polícia Rodoviária Federal (PRF) e do DATASUS, realizadas em Python no Google Colab, além da estruturação inicial dos filtros do painel.
+
  
 
 ---
@@ -33,7 +32,7 @@ Desenvolver um dashboard interativo com dados agregados de segurança viária, f
 ## 📅 Sprint(s) Relacionadas
 |Sprint|            O que foi entregue                                                                                                                                                                                                                       |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|1   | 
+|1   | A limpeza e padronização das informações no Google Colab utilizando Python.
 
                                                           
 
