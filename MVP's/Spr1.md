@@ -64,5 +64,5 @@ Desenvolver um dashboard interativo com dados agregados de segurança viária, f
 - [Código do Colab]()
 - [Apresentação Sprint 1](https://canva.link/f0fgctmrxfwxk6s)
 - [Registro MVP1]()
-- [Relatório Sprint 1](https://canva.link/f0fgctmrxfwxk6s)
+- [Relatório Sprint 1](https://docs.google.com/document/d/1m8MY8FKK_Ln7RB-rT9rX8T658Sscon7pMMJOk3LvV4A/edit?usp=sharing)
 
