@@ -62,7 +62,7 @@ O dashboard está organizado em duas páginas:
 
 ## 📂 Anexos / Evidências
 - [Código do Colab]()
-- [Apresentação Sprint 2]()
+- [Apresentação Sprint 2](https://canva.link/f0fgctmrxfwxk6s)
 - [Registro MVP2]()
 - [Relatório Sprint 2]()
 
