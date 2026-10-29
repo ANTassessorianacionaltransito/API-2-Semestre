@@ -30,9 +30,10 @@ O dashboard está organizado em duas páginas:
 ---
 
 ## 📅 Sprint(s) Relacionadas
-|Sprint|            O que foi entregue                                                                                                                                                                                                                       |
-|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2   | 
+| Sprint | O que foi entregue |
+|---|---|
+| 2 | Dashboard publicado em Power BI, organizado em duas páginas: Sinistros e Comparação. A versão apresenta evolução histórica de mortos e feridos, ranking estadual relacionado a veículos pesados, indicadores de mortes por 100 mil habitantes e sinistros por 10 mil veículos, além de filtros por estado e período. |
+
 
                                                           
 
