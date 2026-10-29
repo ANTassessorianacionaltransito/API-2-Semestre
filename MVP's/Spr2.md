@@ -5,11 +5,11 @@ Desenvolver um dashboard interativo com dados agregados de segurança viária, f
 
 ---
 
-## 📝 Descrição da Solução  
-- 
-- 
-- 
- 
+## 📝 Descrição da Solução 
+O dashboard está organizado em duas páginas:
+
+- **Página 1 — Sinistros:** evolução de mortos e feridos entre 2017 e 2025, ranking estadual apresentado para veículos pesados e filtros de data e UF.
+- **Página 2 — Comparação:** indicadores de mortes por 100 mil habitantes e sinistros por 10 mil veículos, com gráficos e filtros de ano e UF.
 
 ---
 
