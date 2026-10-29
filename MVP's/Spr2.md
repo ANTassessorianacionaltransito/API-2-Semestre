@@ -54,10 +54,12 @@ O dashboard está organizado em duas páginas:
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+ 
+- Incorporar os ajustes identificados na apresentação da Sprint 2.
+- Consolidar o dashboard para a entrega final.
+- Desenvolver a comparação dos pontos de descanso.
+- Aprofundar a análise da relação entre a frota pesada e os sinistros fatais.
+- Documentar as limitações e as pendências de cada indicador.
 ---
 
 ## 📂 Anexos / Evidências
